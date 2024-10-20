@@ -1,0 +1,2 @@
+The idea here, is to practice using git / github while at the same time beginning to piece together my portfolio for proespedtive employers
+and in time to begin a collab with other dino noobs!
