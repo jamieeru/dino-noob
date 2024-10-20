@@ -1,2 +1,5 @@
 The idea here, is to practice using git / github while at the same time beginning to piece together my portfolio for proespedtive employers
 and in time to begin a collab with other dino noobs!
+
+Here I'll outline project ideas with a contents page, then add a new file explaining each project
+That way I can keep all the tangents my mind goes on in some kind of order
